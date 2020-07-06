@@ -1,0 +1,6 @@
+image:
+  file: gitpod/gitpod.Dockerfile
+privileged: true
+vscode:
+  extensions:
+    - asvetliakov.vscode-neovim@0.0.50:fL4BA5b0wWOgeGy77lS/hA==
